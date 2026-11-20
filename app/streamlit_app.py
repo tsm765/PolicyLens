@@ -3,6 +3,7 @@
 import streamlit as st
 
 from app.rag_pipeline import answer_question
+from app.ui_errors import user_error_message
 
 
 CONNECTION_NAME = "policylens"  # Named local Snowflake connection; no credentials here.
@@ -32,9 +33,8 @@ if asked:
                 st.session_state["policy_answer"] = answer_question(
                     question.strip(), connection_name=CONNECTION_NAME
                 )
-            except Exception:
-                st.error("Could not get an answer from Snowflake. Check the local "
-                         "connection and service access, then try again.")
+            except Exception as exc:
+                st.error(user_error_message(exc))
 
 result = st.session_state.get("policy_answer")
 if result is not None:

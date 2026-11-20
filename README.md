@@ -12,6 +12,8 @@ Warranty terms, exclusions, and service steps are spread across multiple documen
 
 The initial knowledge base contains three approved PDFs in [`sample_data/pdfs/`](sample_data/pdfs/): Product Warranty Policy, Service Procedures, and Extended Warranty Terms. Snowflake parsed six pages and stores 32 section-aware chunks (11, 12, and 9 respectively). The app retrieves up to five chunks, asks `AI_COMPLETE` for a structured grounded response to general questions, and rejects citation IDs that were not retrieved. Explicit standard-warranty date questions use Python calendar-month arithmetic with durations taken from retrieved policy text.
 
+Calculated expiry dates mark calendar-month boundaries. The fictional policy does not explicitly settle whether coverage on the boundary date is inclusive or exclusive.
+
 ## Technology
 
 - **Snowflake:** internal stage, `AI_PARSE_DOCUMENT`, SQL transformations, `DOCUMENT_CHUNKS`, Cortex Search, and `AI_COMPLETE`
