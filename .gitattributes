@@ -1,0 +1,7 @@
+# Retrieved source passages retain their original internal whitespace.
+evaluation/results/unanswerable_retrieval_public.csv -whitespace
+
+# Two trailing spaces are intentional Markdown line breaks in approved policies.
+sample_data/Product_Warranty_Policy.md whitespace=-blank-at-eol
+sample_data/Service_Procedures.md whitespace=-blank-at-eol
+sample_data/Extended_Warranty_Terms.md whitespace=-blank-at-eol

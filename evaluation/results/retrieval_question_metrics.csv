@@ -1,0 +1,17 @@
+question_id,category,evidence_units,matched_units_at_3,hit_at_3,evidence_coverage_at_3,complete_evidence_at_3,matched_units_at_5,hit_at_5,evidence_coverage_at_5,complete_evidence_at_5
+Q01,direct factual,2,2,1,1.0,1,2,1,1.0,1
+Q02,direct factual,2,2,1,1.0,1,2,1,1.0,1
+Q03,direct factual,1,1,1,1.0,1,1,1,1.0,1
+Q04,direct factual,1,1,1,1.0,1,1,1,1.0,1
+Q05,direct factual,1,1,1,1.0,1,1,1,1.0,1
+Q06,direct factual,2,2,1,1.0,1,2,1,1.0,1
+Q07,direct factual,1,1,1,1.0,1,1,1,1.0,1
+Q08,direct factual,1,1,1,1.0,1,1,1,1.0,1
+Q09,conditional,2,2,1,1.0,1,2,1,1.0,1
+Q10,conditional,2,2,1,1.0,1,2,1,1.0,1
+Q11,conditional,1,1,1,1.0,1,1,1,1.0,1
+Q12,conditional,1,1,1,1.0,1,1,1,1.0,1
+Q13,cross-document,3,2,1,0.6666666666666666,0,2,1,0.6666666666666666,0
+Q14,cross-document,3,1,1,0.3333333333333333,0,2,1,0.6666666666666666,0
+Q15,cross-document,2,2,1,1.0,1,2,1,1.0,1
+Q16,cross-document,6,3,1,0.5,0,5,1,0.8333333333333334,0

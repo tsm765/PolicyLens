@@ -1,0 +1,68 @@
+# Private local documentation and configuration
+.local/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+!.env.sample
+.streamlit/secrets.toml
+.snowflake/
+connections.toml
+
+# Python caches and test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Editor files
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system files and logs
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+
+# Terraform local data, plans, variable secrets, and credentials
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.plan
+tfplan
+plan.out
+*.tfvars
+*.tfvars.json
+.terraformrc
+terraform.rc
+credentials.tfrc.json
+*.p8
+*.pem
+*.key
+*.p12
+
+# Local Snowflake request traces; publish request-ID-free copies instead
+/evaluation/results/retrieval_ranked_results.csv
+/evaluation/results/unanswerable_retrieval.csv
+
+# Failed placeholder-connection trial; retain locally, exclude from release
+/evaluation/results/answer_generation_v1_1_targeted.csv

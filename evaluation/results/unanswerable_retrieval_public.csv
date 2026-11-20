@@ -1,0 +1,82 @@
+"question_id","question","rank","chunk_id","document_name","chunk_number","header_1","header_2","searchable_text"
+"Q17","What guaranteed response time does Asteron promise after a service request is opened?","1","21c31a59d2a58a0bb5b0f910ad0362a03ae0fa4440e6f0dc3e7c1a4bbb5f0f87","Service_Procedures.pdf","4","3. Open a service request","","3. Open a service request
+To open a service request, contact the Asteron Equipment service team through the designated service channel and provide the information below. The service team records the submission as a request for review.  
+1. Product model: AX-100 or AX-200.
+2. Serial number: The identifier shown on the unit or its product records.
+3. Fault description: The observed symptoms, damage, or operating issue, including when it began and whether it is ongoing.
+4. Relevant warranty records: Available shipment date, commissioning date, warranty or extension registration information, and other records that may establish the applicable coverage period.
+5. Relevant service and maintenance information: Prior repairs, required maintenance records, and known handling or modification history when related to the reported fault.
+6. Reporter details: A contact name and a way for the service team to request clarification about the submission."
+"Q17","What guaranteed response time does Asteron promise after a service request is opened?","2","68c90b7f77b92104da89de93056f6643bc57cc91777a79873e6f7fd02d5d5d55","Service_Procedures.pdf","2","1. Purpose and scope","","1. Purpose and scope
+This procedure explains how an owner or operator reports a fault and how Asteron Equipment's service team reviews a service request. It applies to the fictional AX-100 Standard Industrial Power Unit and AX-200 Heavy-Duty Industrial Power Unit.  
+The procedure supports the warranty review described in AST-WAR-001, Product Warranty Policy. Submitting a service request begins a review; it does not establish warranty eligibility or authorize a warranty repair."
+"Q17","What guaranteed response time does Asteron promise after a service request is opened?","3","fc552c727cc56712f35f35ce66b05e05c3c785350284839d841721ad63b5fc9c","Service_Procedures.pdf","1","","","Asteron Equipment — Service Procedures  
+Document ID: AST-SVC-001
+Version: 1.0
+Effective date: 2026-01-01"
+"Q17","What guaranteed response time does Asteron promise after a service request is opened?","4","24ff52cf3c61f0a9b23735e40a2e5359813c2161eb094baebe68326ced9ce2f6","Service_Procedures.pdf","8","5. Warranty repair authorization","","5. Warranty repair authorization
+Do not begin or represent a repair as an Asteron-authorized warranty repair until the service team has reviewed the request and provided authorization for that warranty repair. Authorization applies to the repair scope communicated by the service team. If the observed fault changes or additional work appears necessary, submit the new information for review before treating additional work as authorized under the warranty.  
+This procedure does not establish that every reported fault will qualify for warranty coverage. Eligibility is assessed under the applicable policy and depends on sufficient facts. A service request may be reviewed even when the eventual result is that the fault is outside the stated coverage."
+"Q17","What guaranteed response time does Asteron promise after a service request is opened?","5","e5aaba6aa3eb8f2628d59e2382baf537a6854369a20c81bf71dd751e52065565","Extended_Warranty_Terms.pdf","8","6. Service requests and repair authorization","","6. Service requests and repair authorization
+Claims during extended coverage use the standard service request procedure in AST-SVC-001, Service Procedures. The reporter should provide the model, serial number, fault description, and relevant warranty records, including the extension purchase and registration details.  
+The service team reviews the request against both the applicable coverage terms and the facts provided. An extension registration does not by itself establish that a particular fault is covered. Warranty repair must be authorized by the service team before it begins, following AST-SVC-001 §5.  
+If information is incomplete, the service team may request clarification and escalate unresolved questions under AST-SVC-001 §6. A request for additional records is not an approval or denial of the claim."
+"Q18","Will Asteron provide an on-site technician at no charge for an AX-200 fault?","1","21c31a59d2a58a0bb5b0f910ad0362a03ae0fa4440e6f0dc3e7c1a4bbb5f0f87","Service_Procedures.pdf","4","3. Open a service request","","3. Open a service request
+To open a service request, contact the Asteron Equipment service team through the designated service channel and provide the information below. The service team records the submission as a request for review.  
+1. Product model: AX-100 or AX-200.
+2. Serial number: The identifier shown on the unit or its product records.
+3. Fault description: The observed symptoms, damage, or operating issue, including when it began and whether it is ongoing.
+4. Relevant warranty records: Available shipment date, commissioning date, warranty or extension registration information, and other records that may establish the applicable coverage period.
+5. Relevant service and maintenance information: Prior repairs, required maintenance records, and known handling or modification history when related to the reported fault.
+6. Reporter details: A contact name and a way for the service team to request clarification about the submission."
+"Q18","Will Asteron provide an on-site technician at no charge for an AX-200 fault?","2","68c90b7f77b92104da89de93056f6643bc57cc91777a79873e6f7fd02d5d5d55","Service_Procedures.pdf","2","1. Purpose and scope","","1. Purpose and scope
+This procedure explains how an owner or operator reports a fault and how Asteron Equipment's service team reviews a service request. It applies to the fictional AX-100 Standard Industrial Power Unit and AX-200 Heavy-Duty Industrial Power Unit.  
+The procedure supports the warranty review described in AST-WAR-001, Product Warranty Policy. Submitting a service request begins a review; it does not establish warranty eligibility or authorize a warranty repair."
+"Q18","Will Asteron provide an on-site technician at no charge for an AX-200 fault?","3","78408bcc7ea599caddc9f9f5417c9ec50c318d3151286737a2b3fd4880089401","Product_Warranty_Policy.pdf","2","1. Purpose and scope","","1. Purpose and scope
+This policy describes the standard limited warranty for Asteron Equipment's AX-100 Standard Industrial Power Unit and AX-200 Heavy-Duty Industrial Power Unit. It explains the coverage period, the types of faults considered, and the information needed for an eligibility review.  
+This document describes the fictional Asteron Equipment policy used by the PolicyLens project. It is not a real manufacturer's warranty. The policy is a basis for review; it does not make a final eligibility decision without the relevant product, date, fault, and service information."
+"Q18","Will Asteron provide an on-site technician at no charge for an AX-200 fault?","4","b36895b7194c492cbf7f785f5a73d87f1dd7abbd69d288cd6b788eeba5a376da","Extended_Warranty_Terms.pdf","2","1. Purpose and relationship to standard coverage","","1. Purpose and relationship to standard coverage
+These terms describe the optional extended warranty for the fictional Asteron Equipment AX-100 Standard Industrial Power Unit and AX-200 Heavy-Duty Industrial Power Unit. The extension follows the product's standard warranty; it does not replace, restart, or add time to the standard warranty period.  
+Standard coverage is governed by AST-WAR-001, Product Warranty Policy. For each product, standard coverage ends at the earlier of the commissioning-based deadline and the maximum shipment-based deadline specified in AST-WAR-001 §3. The extension begins immediately after that standard coverage ends, if the extension has been purchased and registered on time."
+"Q18","Will Asteron provide an on-site technician at no charge for an AX-200 fault?","5","24ff52cf3c61f0a9b23735e40a2e5359813c2161eb094baebe68326ced9ce2f6","Service_Procedures.pdf","8","5. Warranty repair authorization","","5. Warranty repair authorization
+Do not begin or represent a repair as an Asteron-authorized warranty repair until the service team has reviewed the request and provided authorization for that warranty repair. Authorization applies to the repair scope communicated by the service team. If the observed fault changes or additional work appears necessary, submit the new information for review before treating additional work as authorized under the warranty.  
+This procedure does not establish that every reported fault will qualify for warranty coverage. Eligibility is assessed under the applicable policy and depends on sufficient facts. A service request may be reviewed even when the eventual result is that the fault is outside the stated coverage."
+"Q19","What is the maximum amount Asteron reimburses for customer-paid repair costs?","1","24ff52cf3c61f0a9b23735e40a2e5359813c2161eb094baebe68326ced9ce2f6","Service_Procedures.pdf","8","5. Warranty repair authorization","","5. Warranty repair authorization
+Do not begin or represent a repair as an Asteron-authorized warranty repair until the service team has reviewed the request and provided authorization for that warranty repair. Authorization applies to the repair scope communicated by the service team. If the observed fault changes or additional work appears necessary, submit the new information for review before treating additional work as authorized under the warranty.  
+This procedure does not establish that every reported fault will qualify for warranty coverage. Eligibility is assessed under the applicable policy and depends on sufficient facts. A service request may be reviewed even when the eventual result is that the fault is outside the stated coverage."
+"Q19","What is the maximum amount Asteron reimburses for customer-paid repair costs?","2","6fc55b9f0e62d5c161556d946f1c1cf0ac67e5f02023029dfa6faca99325051f","Product_Warranty_Policy.pdf","1","","","Asteron Equipment — Product Warranty Policy  
+Document ID: AST-WAR-001
+Version: 1.0
+Effective date: 2026-01-01"
+"Q19","What is the maximum amount Asteron reimburses for customer-paid repair costs?","3","78408bcc7ea599caddc9f9f5417c9ec50c318d3151286737a2b3fd4880089401","Product_Warranty_Policy.pdf","2","1. Purpose and scope","","1. Purpose and scope
+This policy describes the standard limited warranty for Asteron Equipment's AX-100 Standard Industrial Power Unit and AX-200 Heavy-Duty Industrial Power Unit. It explains the coverage period, the types of faults considered, and the information needed for an eligibility review.  
+This document describes the fictional Asteron Equipment policy used by the PolicyLens project. It is not a real manufacturer's warranty. The policy is a basis for review; it does not make a final eligibility decision without the relevant product, date, fault, and service information."
+"Q19","What is the maximum amount Asteron reimburses for customer-paid repair costs?","4","fc552c727cc56712f35f35ce66b05e05c3c785350284839d841721ad63b5fc9c","Service_Procedures.pdf","1","","","Asteron Equipment — Service Procedures  
+Document ID: AST-SVC-001
+Version: 1.0
+Effective date: 2026-01-01"
+"Q19","What is the maximum amount Asteron reimburses for customer-paid repair costs?","5","3fb71b2e0186fb3398964d769467857a28b1df6d49ebbb79d4487482cb087b41","Extended_Warranty_Terms.pdf","1","","","Asteron Equipment — Extended Warranty Terms  
+Document ID: AST-EW-001
+Version: 1.0
+Effective date: 2026-01-01"
+"Q20","Can the warranty be transferred to a later owner if the equipment is sold?","1","f12a2042d34adeea28f2ef43fa65f3b2113d5d58513f2f312a3147649db43390","Extended_Warranty_Terms.pdf","5","3. Purchase and registration timing","","3. Purchase and registration timing
+Both purchase and registration must be completed before the standard warranty expires. A purchase or registration made on or after the standard warranty expiry does not meet this timing requirement under these terms.  
+The applicable standard expiry must be determined under AST-WAR-001 §3, using the unit's shipment date, commissioning date, and product model. If those dates cannot be established, the standard expiry—and therefore whether the extension was obtained in time—cannot be confirmed until the relevant information is provided.  
+The purchase record and registration record should identify the same product model and serial number. If records are incomplete or inconsistent, the service team may request clarification through the service request process."
+"Q20","Can the warranty be transferred to a later owner if the equipment is sold?","2","af90be455791fe1894676509a06f21ac968080cb2732c646651a462d9c4b2d70","Product_Warranty_Policy.pdf","3","2. Definitions and date interpretation","","2. Definitions and date interpretation
+1. Shipment date is the date the unit is recorded as shipped by Asteron Equipment.
+2. Commissioning date is the date the unit is first placed into authorized operation and commissioning is recorded.
+3. Manufacturing defect is a fault attributable to a defect in materials or workmanship when the unit is operated normally and in an authorized manner.
+4. Warranty expiry date is determined using the applicable time limit in Section 3. Coverage ends at the earlier applicable deadline: the commissioning-based deadline or the maximum shipment-based deadline.
+5. A period stated in months is measured by calendar months from the applicable start date. If a required date or record is unavailable, the expiry date cannot be confirmed from this policy alone."
+"Q20","Can the warranty be transferred to a later owner if the equipment is sold?","3","6fc55b9f0e62d5c161556d946f1c1cf0ac67e5f02023029dfa6faca99325051f","Product_Warranty_Policy.pdf","1","","","Asteron Equipment — Product Warranty Policy  
+Document ID: AST-WAR-001
+Version: 1.0
+Effective date: 2026-01-01"
+"Q20","Can the warranty be transferred to a later owner if the equipment is sold?","4","67107301f2c9cfd5b33d45ba763b782be223ccd27cc09fd9ddb78f79814b9b22","Product_Warranty_Policy.pdf","7","4. Coverage and exclusions","4.1 Covered faults","4. Coverage and exclusions
+4.1 Covered faults
+Subject to the applicable warranty period and an eligibility review, the standard warranty covers manufacturing defects that arise while the product is under normal, authorized operation. The nature of the reported fault and the available product and service records are considered during review."
+"Q20","Can the warranty be transferred to a later owner if the equipment is sold?","5","3fb71b2e0186fb3398964d769467857a28b1df6d49ebbb79d4487482cb087b41","Extended_Warranty_Terms.pdf","1","","","Asteron Equipment — Extended Warranty Terms  
+Document ID: AST-EW-001
+Version: 1.0
+Effective date: 2026-01-01"
