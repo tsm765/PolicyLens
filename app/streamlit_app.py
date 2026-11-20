@@ -55,4 +55,4 @@ if result is not None:
             ))) or "Section not labeled"
             with st.expander(f"{passage.document_name} · {section}", expanded=True):
                 st.caption(f"Chunk {passage.chunk_number}")
-                st.write(passage.searchable_text)
+                st.text(passage.searchable_text)
